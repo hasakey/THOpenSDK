@@ -1,0 +1,6 @@
+framework module THOpenSDK {
+  umbrella header "THOpenSDK.h"
+
+  export *
+  module * { export * }
+}
