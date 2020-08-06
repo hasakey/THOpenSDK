@@ -25,6 +25,14 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
+			目前支持的功能有：
+					1、控制器
+					2、房屋
+					3、控制器
+					4、设备
+					5、房间
+					6、楼层
+					7、配网
                    DESC
 
   spec.homepage     = "https://github.com/hasakey/THOpenSDK.git"
