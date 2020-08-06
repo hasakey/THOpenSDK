@@ -99,7 +99,7 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = 'THOpenSDK/THOpenSDK.framework/Headers/*.{h}'
+  spec.source_files  = "THOpenSDK/THOpenSDK.framework/Headers/*.{h}"
   spec.exclude_files = "THOpenSDK/THOpenSDK.framework"
 
   # spec.public_header_files = "Classes/**/*.h"
