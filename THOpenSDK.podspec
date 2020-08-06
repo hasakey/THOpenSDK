@@ -33,6 +33,7 @@ Pod::Spec.new do |spec|
 					5、房间
 					6、楼层
 					7、配网
+					8、其他
                    DESC
 
   spec.homepage     = "https://github.com/hasakey/THOpenSDK.git"
